@@ -17,5 +17,5 @@ function prime(num) {
     
     return result.pop();
 }
-//prime(13215);
+//prime(13195);
 prime(600851475143);
